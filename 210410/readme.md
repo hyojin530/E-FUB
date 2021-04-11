@@ -6,13 +6,13 @@
 --------
 ## 1.1. table
 ### 1.1.1. members
-<img src="members.jpeg">
+<img src="members.png">
 
 ### 1.1.2. position
-<img src="position.jpeg">
+<img src="position.png">
 
 ### 1.1.3. team
-<img src="team.jpeg">
+<img src="team.png">
 
 ## 1.2. SQL code
 ```sql
@@ -22,7 +22,7 @@ inner join team on team.team_id = members.team_id;
 ```
 
 ## 1.3. output
-<img src="join_output.jpeg">
+<img src="join_output.png">
 
 
 
@@ -31,7 +31,7 @@ inner join team on team.team_id = members.team_id;
 --------
 
 ## 2.1. original
-<img src="HappyFace.jpeg">
+<img src="HappyFace.jpg">
 
 ## 2.2. resized
-<img src="HappyFace_resized.jpeg">
+<img src="HappyFace_resized.jpg">
