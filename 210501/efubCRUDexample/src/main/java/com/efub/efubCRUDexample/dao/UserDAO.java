@@ -1,12 +1,13 @@
 package com.efub.efubCRUDexample.dao;
 
 import com.efub.efubCRUDexample.model.User;
+import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;
 import java.util.List;
 
-@Repository
+@Repository @Primary
 public class UserDAO {
     public static List<User> users;
 
