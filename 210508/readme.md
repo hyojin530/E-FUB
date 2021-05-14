@@ -15,7 +15,7 @@
 ```
 ### 1.1.2. output
 
-<img src="01.png">
+<img src="01.PNG">
 
 
 ## 1.2. MemeberApp
@@ -30,7 +30,7 @@
 
 ### 1.2.2. output
 
-<img src="02.png">
+<img src="02.PNG">
 
 
 
