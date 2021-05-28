@@ -4,7 +4,7 @@
 # 1. 테스트 코드 작성
 --------
 
-<img src="hell_return.PNG">
+<img src="hell_return.png">
 
 
 # 2. 유저 생성
@@ -12,26 +12,26 @@
 
 ## 1.1. 기본
 
-<img src="insert_user.PNG">
+<img src="insert_user.png">
 
 
 ## 1.2. 리팩토링
 
-<img src="insert_user2.PNG">
+<img src="insert_user2.png">
 
 
 
 # 3. 유저 조회
 --------
 
-<img src="get_users.PNG">
+<img src="get_users.png">
 
 
 
 # 4. 예외 처리
 --------
 
-<img src="exception_user.PNG">
+<img src="exception_user.png">
 
 
 
