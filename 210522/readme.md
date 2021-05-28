@@ -4,7 +4,7 @@
 # 1. 테스트 코드 작성
 --------
 
-<img src="hell_return.png">
+<img src="hello_return.png">
 
 
 # 2. 유저 생성
